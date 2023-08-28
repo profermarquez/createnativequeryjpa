@@ -1,0 +1,2 @@
+# createnativequeryjpa
+createnativequery jpa
